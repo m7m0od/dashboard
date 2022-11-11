@@ -1,2 +1,2 @@
 # dashboard
-dasgboard design just css
+Create dashboard components such as layouts, widgets, data definitions.
